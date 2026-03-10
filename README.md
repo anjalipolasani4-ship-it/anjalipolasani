@@ -78,4 +78,4 @@ src/
     ├── JobCard.jsx       # Individual job card
     ├── JobForm.jsx       # Add/edit modal form
     └── StatusBadge.jsx   # Colored status pill
-```
+deployed in https://job-tracker-anjali.netlify.app
